@@ -117,7 +117,7 @@ winner: tails
 
 #### Number of tosses
 
-You can set the number of tosses with the `-t=` parameter. Example:
+You can set the number of tosses with the `t=` parameter. Example:
 
 ```shell
 $ curl 'localhost:8080?v&t=3'
